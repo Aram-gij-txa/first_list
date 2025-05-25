@@ -33,9 +33,9 @@ class List{
 };
 
 int main(){
-    List aram;
-    aram.push(20);
-    aram.push(100);
-    aram.push(500);
-    std::cout << aram[2] << std::endl;
+    List albert;
+    albert.push(20);
+    albert.push(100);
+    albert.push(500);
+    std::cout << albert[2] << std::endl;
 }
